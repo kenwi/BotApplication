@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Microsoft.Bot.Connector.DirectLineClientCredentials">
+    <Position X="6.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Bots" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.BotsExtensions">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ConnectorClient" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ConnectorClientExtensions">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Messages" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.75" Width="3.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.MessagesExtensions">
+    <Position X="7.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Attachment">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.BotData">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ChannelAccount">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Error">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ErrorMessage">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Location">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Mention">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Message">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ErrorHandling">
+    <Position X="11.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.Extensions">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Bot.Connector.ConnectorClientCredentials">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Microsoft.Bot.Connector.IBots">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.Bot.Connector.IConnectorClient">
+    <Position X="2.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Microsoft.Bot.Connector.IMessages">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
